@@ -1,0 +1,71 @@
+body{
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.tribute-page{
+        text-align: center;
+        background-color:  #eee;
+        padding: 60px 30px  50px 30px;  
+        color: #333;
+        font-size: 1.3rem;
+        line-height: 1.5;
+        border-radius: 2%;
+} 
+
+.name{
+        font-size: 2.5rem;
+        margin-bottom: 25px;
+}
+
+.img-section{
+        background-color: #ffffff;
+        width: 80%;
+        margin-right: auto;
+        margin-left: auto;
+        display: block;
+         
+}
+.img{
+        width: 98%;
+}
+.description{
+        font-size: 1.3rem;
+}
+
+.img-caption{
+        padding-bottom: 20px;
+        line-height: 30px;
+        font-size: 1.25rem;
+}
+.timeline-heading{
+        margin: 50px 0;
+        color: teal;
+}
+
+.timeline{
+        max-width: 700px;
+        margin: 50px auto ;
+        display: block;
+}
+
+.timeline-item{
+        text-align: left;
+        font-size: 1.3rem;
+}
+.quote{
+        font-size: 25px;
+        width: 50%;
+     margin-left: auto;
+     margin-right: auto;
+     font-style: italic;
+     max-width: 700px;
+     color: teal;
+}
+.read-more{
+        font-size: 1.3rem;
+}
+
+a:hover{
+    text-decoration: none;
+    color: darkblue;
+}
